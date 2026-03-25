@@ -2,7 +2,7 @@
 
 The dataset used in this project contains daily meteorological observations sourced from the **Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)** via [Data Online BMKG](https://dataonline.bmkg.go.id/). 
 
-The data containing **717 observations** from 01-04-2024 to 18-03-2026 at Stasiun Klimatologi DI Yogyakarta. It captures various atmospheric conditions, making it highly suitable for our target task: predicting the Average Relative Humidity (`RH_avg`).
+The data containing **716 observations** from 01-04-2024 to 18-03-2026 at Stasiun Klimatologi DI Yogyakarta. It captures various atmospheric conditions, making it highly suitable for our target task: predicting the Average Relative Humidity (`RH_avg`).
 
 ### Data Dictionary
 
