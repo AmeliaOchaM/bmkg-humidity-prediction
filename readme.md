@@ -33,3 +33,5 @@ All meteorological data used in this project is the intellectual property of the
 We would like to express our sincere gratitude to BMKG for providing public access to historical weather data through their official portal. This machine learning project and our research into SDG 13 (Climate Action) were made possible thanks to their commitment to transparent and accessible climate data. 
 
 For more information and to access similar datasets, please visit: [https://dataonline.bmkg.go.id/](https://dataonline.bmkg.go.id/)
+
+## NOTEBOOK : https://www.kaggle.com/code/ameliaochamaharani/humidity-prediction
